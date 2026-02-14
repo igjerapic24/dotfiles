@@ -1,0 +1,3 @@
+[submodule "nvimchad/.config/nvim"]
+	path = nvimchad/.config/nvim
+	url = git@github.com:igjerapic24/nvimchad.git
