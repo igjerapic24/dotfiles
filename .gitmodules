@@ -7,3 +7,6 @@
 [submodule "nvim-latex/.config/nvim-latex"]
 	path = nvim-latex/.config/nvim-latex
 	url = git@github.com:igjerapic24/nvim-latex.git
+[submodule "nvim-total/.config/nvim-total"]
+	path = nvim-total/.config/nvim-total
+	url = git@github.com:igjerapic24/nvim-total.git
